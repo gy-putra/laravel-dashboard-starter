@@ -1,0 +1,6 @@
+Install and configure shadcn/ui in this Laravel 12 + React (Inertia) project.
+Replace the existing Login and Signup pages with fully responsive pages built using shadcn/ui components (e.g., Input, Button, Card, Label, etc.).
+Make sure the design follows a clean and modern UI layout.
+Implement proper form validation and error display using Laravel’s validation system.
+Connect the authentication logic to the existing MySQL database, ensuring users can register and log in correctly.
+Keep the routing and Inertia setup intact so that the authentication flow works seamlessly.
